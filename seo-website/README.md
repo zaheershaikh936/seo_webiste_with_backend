@@ -64,3 +64,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<!-- project author -->
+
+Hi ....!!!
+
+Thank you for downloading this project 
+this is a laravel backend and frontend project you can download and use it for free
+you dont have pay any amount for this project 
+
+DOTO to install this project
+1) after clone this project 
+2) go into export_database to import database
+3) you can change contain dynamic with admin panel just go into (YOUR PROJET URL) http://localhost:8080/dashboard 
+4) any problem contact me zahirshaikh9999@gmail.com
+5) you can add changes also i will work for you
+6) send me you requirement i will do change add new models just in less charge
+
+
+Backend
+ laravel
+
+Frontend
+html css bootstrap javascript 
+
+
+Thank you .....!!!!
